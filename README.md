@@ -1,2 +1,2 @@
 # finalproject
-aihzel and neal's big ideas final!
+aihzel, neal, q's big ideas final!
