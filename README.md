@@ -10,4 +10,6 @@ Public Assistance Income: https://data.wprdc.org/dataset/pittsburgh-american-com
 
 City-Managed Trees: https://data.wprdc.org/dataset/city-trees
 
+Monthly Crime Activity: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
+
 Overview: A repository that includes notebooks examining the level of social economics in each neighborhood in Pittsburgh.
