@@ -5,6 +5,7 @@ Neal Gummadi (NSG68@pitt.edu)
 Quentin Sharr (QUS21@pitt.edu)
 
 WPRDC Datasets Used:
+
 Public Assistance Income: https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/38a5632d-1355-492c-8735-51bf68bdff13
 
 City-Managed Trees: https://data.wprdc.org/dataset/city-trees
